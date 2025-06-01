@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! I'm Key! 👋
+- 💬 Want to learn: Anything!
+- 📫 How to reach me: Contact me on discord at https://discord.com/users/357505607911211008
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm interested in tech world back when I was still in Elementary School because I played video games for the first time.
+- 👾 Favorite Game: The Project Moon Trilogy (Lobotomy Corporation, Library of Ruina, Limbus Company) and Core Pokémon Series.
+![scorbunny_running](https://github.com/Key-D-M/Key-D-M/blob/main/scorbunny-run.gif)
 
 <!--
 **Key-D-M/Key-D-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
