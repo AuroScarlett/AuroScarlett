@@ -1,6 +1,6 @@
 ## Hi there! I'm Key! 👋
 - 💬 Want to learn: Anything!
-- 📫 How to reach me: Contact me on discord at https://discord.com/users/357505607911211008
+- 📫 How to reach me: Contact me on discord at <a href="https://discord.com/users/357505607911211008">auroscarlett</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm interested in tech world back when I was still in Elementary School because I played video games for the first time.
 - 👾 Favorite Game: The Project Moon Trilogy (Lobotomy Corporation, Library of Ruina, Limbus Company) and Core Pokémon Series.
