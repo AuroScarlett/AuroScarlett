@@ -3,7 +3,7 @@
 - 📫 How to reach me: Contact me on discord at <a href="https://discord.com/users/357505607911211008">auroscarlett</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm interested in tech world back when I was still in Elementary School because I played video games for the first time.
-- 👾 Favorite Game: The Project Moon Trilogy (Lobotomy Corporation, Library of Ruina, Limbus Company) and Core Pokémon Series.
+- 👾 Favorite Game: The Project Moon Trilogy (<a href="https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/">Lobotomy Corporation</a>, <a href="https://store.steampowered.com/app/1256670/Library_Of_Ruina/">Library of Ruina</a>, <a href="https://store.steampowered.com/app/1973530/Limbus_Company/">Limbus Company</a>) and <a href="https://bulbapedia.bulbagarden.net/wiki/Core_series">Core Pokémon Series</a>.
 ![scorbunny_running](https://github.com/Key-D-M/Key-D-M/blob/main/scorbunny-run.gif)
 
 <!--
