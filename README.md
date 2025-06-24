@@ -1,4 +1,5 @@
-## Hi there! I'm Key! 👋
+## Hi there! I'm Auro / Key! 👋
+- 🤔 My Name: Keisandy Dafa Mulianda (Real Name) / Auro Scarlett (Online Name, but in reality I'll respond if someone called me like this too.) 
 - 💬 Want to learn: Anything!
 - 📫 How to reach me: Contact me on discord at <a href="https://discord.com/users/357505607911211008">auroscarlett</a>
 - 😄 Pronouns: He/Him
