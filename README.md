@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm interested in tech world back when I was still in Elementary School because I played video games for the first time.
 - 👾 Favorite Game: The Project Moon Trilogy (<a href="https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/">Lobotomy Corporation</a>, <a href="https://store.steampowered.com/app/1256670/Library_Of_Ruina/">Library of Ruina</a>, <a href="https://store.steampowered.com/app/1973530/Limbus_Company/">Limbus Company</a>) and <a href="https://bulbapedia.bulbagarden.net/wiki/Core_series">Core Pokémon Series</a>.<br>
-![scorbunny_running](https://github.com/Key-D-M/Key-D-M/blob/main/scorbunny-run.gif)
+![scorbunny_running](https://github.com/AuroScarlett/AuroScarlett/blob/main/scorbunny-run.gif)
 
 <!--
 **Key-D-M/Key-D-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
